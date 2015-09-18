@@ -1,0 +1,62 @@
+/* Navigation Section */
+.top-navigation {
+    background-color: #fff;
+}
+.top-navigation > .content {
+    width: 970px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.top-navigation .links {
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    color: #838994;
+    font-size: 16px;
+    margin-top: 25px;
+    -webkit-font-smoothing: antialiased;
+}
+.top-navigation .links li {
+    display: inline-block;
+    margin-left: 25px;
+}
+.top-navigation .links .active {
+    color: #4c5058;
+    font-weight: 500;
+}
+.top-navigation .links li:hover {
+    cursor: pointer;
+    color: #333333;
+}
+
+.introduction {
+    background-image: url(http://i173.photobucket.com/albums/w79/Luke_Bucciarelli/KW8UftFosyCQF7X9rgCZFn7FVHUwtxuM6S4d-wOzxEc_zpsyyo2hrjm.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+}
+
+.content {
+    	text-align: center;
+    	font-family: 'Roboto', sans-serif;
+    	color: #838994;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
