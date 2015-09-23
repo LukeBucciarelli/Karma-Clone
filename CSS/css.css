@@ -45,7 +45,12 @@
 .hero {
     	text-align: center;
     	font-family: 'Roboto', sans-serif;
-    	color: #838994;
+    	color: white;
+}
+
+button {
+    background-color: orange;
+    color: white;
 }
 
 
@@ -54,6 +59,7 @@
 
 .main {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 .main__subtitle {
@@ -68,7 +74,7 @@
 
 .main__icon-list__item {
     display: inline-block;
-    padding: 0 30px;
+    padding: 50px 30px;
 }
 
 .main__icon-list__item img {
@@ -79,6 +85,10 @@
 .main__icon-list__item span {
     display: block;
 
+}
+
+.span {
+    padding: 50px 0;
 }
 
 
