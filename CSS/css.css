@@ -1,5 +1,7 @@
 /* Navigation Section */
 .top-navigation {
+    position: fixed;
+    width: 100%;
     background-color: #fff;
 }
 .top-navigation > .content {
@@ -46,6 +48,38 @@
     	color: #838994;
 }
 
+
+/*  Main 
+    ===========*/
+
+.main {
+    text-align: center;
+}
+
+.main__subtitle {
+    margin: 100px 0 50px;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.main__icon-list {
+    list-style: none;
+}
+
+.main__icon-list__item {
+    display: inline-block;
+    padding: 0 30px;
+}
+
+.main__icon-list__item img {
+    width: 120px;
+
+}
+
+.main__icon-list__item span {
+    display: block;
+
+}
 
 
 
