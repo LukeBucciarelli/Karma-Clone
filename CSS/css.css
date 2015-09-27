@@ -1,4 +1,4 @@
-/* Navigation Section */
+/*---- Navigation Section------ */
 .top-navigation {
     position: fixed;
     width: 100%;
@@ -31,7 +31,7 @@
     color: #333333;
 }
 
-/* Content Section */
+/* ----Content Section---- */
 
 .hero_wrap {
     background-image: url(http://i173.photobucket.com/albums/w79/Luke_Bucciarelli/KW8UftFosyCQF7X9rgCZFn7FVHUwtxuM6S4d-wOzxEc_zpsyyo2hrjm.jpg);
@@ -44,28 +44,40 @@
 
 .hero {
     	text-align: center;
-    	font-family: 'Roboto', sans-serif;
-    	color: white;
+    	font-family:'Roboto', sans-serif;
+    	font-size: 150%;
+        font-weight: 100%;
+        color: #A7A7A7;
+
 }
 
 button {
-    background-color: orange;
+    background-color: #FF9900;
+    border: 4px;
+    border-radius: 5px;
     color: white;
+    font-size: 20px;
+    margin: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+
 }
 
 
-/*  Main 
-    ===========*/
+/* --- Main ---- */
 
 .main {
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    font-weight: 50%;
 }
 
 .main__subtitle {
     margin: 100px 0 50px;
     font-size: 40px;
-    font-weight: 300;
+    font-weight: 50%;
 }
 
 .main__icon-list {
@@ -79,7 +91,7 @@ button {
 
 .main__icon-list__item img {
     width: 120px;
-
+    padding:  10px 20px
 }
 
 .main__icon-list__item span {
@@ -91,6 +103,8 @@ button {
     padding: 50px 0;
 }
 
+
+/* --- Footer --- */ 
 
 
 
