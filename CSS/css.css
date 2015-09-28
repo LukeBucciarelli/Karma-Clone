@@ -105,7 +105,9 @@ button {
 
 
 /* --- Footer --- */ 
-
+.social .icons li {
+    display: inline-block;
+}
 
 
 
