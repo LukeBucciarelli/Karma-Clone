@@ -106,7 +106,15 @@ button {
 
 /* --- Footer --- */ 
 
+.social {
+    text-align: center;
+    display: block;
+}
 
+.content {
+    text-align: center;
+    display: inline-block;
+}
 
 
 
